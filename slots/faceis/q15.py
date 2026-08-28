@@ -22,5 +22,4 @@ label = QLabel()
 obj = myClass(label)
 
 label.show()
-
 app.exec()
