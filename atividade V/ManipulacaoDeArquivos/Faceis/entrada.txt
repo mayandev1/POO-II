@@ -1,0 +1,2 @@
+Este é o conteudo do arquivo de entrada.
+Ele sera copiado para outro arquivo.

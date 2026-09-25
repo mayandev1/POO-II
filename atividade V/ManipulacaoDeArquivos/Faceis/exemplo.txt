@@ -1,0 +1,6 @@
+Python é uma linguagem de programação.
+Python é fácil de aprender.
+Programar em Python é divertido.
+
+Existem muitas linguagens de programação no mundo.
+Java, C, C#, Ruby e Python são exemplos.
